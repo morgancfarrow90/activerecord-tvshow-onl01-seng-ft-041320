@@ -8,3 +8,4 @@ def change
     t.integer :rating 
   end 
 end
+end
