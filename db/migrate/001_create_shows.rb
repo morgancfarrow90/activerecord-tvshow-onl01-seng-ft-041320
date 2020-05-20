@@ -7,5 +7,5 @@ def change
     t.string :day 
     t.integer :rating 
   end 
-end
+ end
 end
